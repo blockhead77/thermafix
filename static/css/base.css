@@ -8,6 +8,7 @@ body {
     height: calc(100vh - 164px);
     color: #555;
     font-family: 'Archivo';
+    opacity: 0.9;
 }
 
 .strokeme {

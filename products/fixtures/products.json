@@ -1,0 +1,72 @@
+[
+  {
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+      "sku": "tsh1",
+      "name": "Full Home Thermal Survey",
+      "description": "Full survey of your home, internally, externally and don't forget the attic space. Including full advisory follow report.",
+      "price": 100.00,
+      "category": 1,
+      "rating": 4.8,
+      "image_url": "",
+      "image": "satisfaction.png"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+      "sku": "tsh2",
+      "name": "External Thermal Survey",
+      "description": "Full Survey of your home's exterior. Including full advisory follow report.",
+      "price": 50.00,
+      "category": 1,
+      "rating": 4.6,
+      "image_url": "",
+      "image": "house.png"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+      "sku": "ths3",
+      "name": "Interior Survey",
+      "description": "Full Survey of your home's interior. Including full advisory follow report.",
+      "price": 50.00,
+      "category": 1,
+      "rating": 4.9,
+      "image_url": "",
+      "image": "interior.png"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+      "sku": "ths4",
+      "name": "Attic / Loft Survey",
+      "description": "Full Survey of your home's attic space. Including full advisory follow report.",
+      "price": 30.00,
+      "category": 1,
+      "rating": 4.7,
+      "image_url": "",
+      "image": "attic.png"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+      "sku": "thsvouch",
+      "name": "Gift Voucher for Thermafix",
+      "description": "The gift of a nice warm home. The sort of gift everyone could appreciate.",
+      "price": 50.00,
+      "category": 2,
+      "rating": 5.0,
+      "image_url": "",
+      "image": "voucher.png"
+    }
+  }
+]
